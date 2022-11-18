@@ -13,6 +13,26 @@
   justify-content: start;
 }
 
+.about{
+  width: 190%;
+  height: auto;
+}
+.img-overlay {
+  position: absolute;
+  top: 112px;
+  bottom: 0;
+  left: 0;
+  right: 110px;
+  text-align: center;
+}
+.hvr{
+  background-color: #343661;
+}
+
+.hvr:hover{
+ background-color:yellowgreen;
+}
+
 /* Normal desktop :1200px. */
 /* Normal desktop :992px. */
 /* Tablet desktop :768px. */
