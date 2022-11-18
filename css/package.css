@@ -1,0 +1,574 @@
+/*package2*/
+
+.package-img {
+    position: relative;
+}
+
+.pack-head {
+    position: absolute;
+    bottom: 0px;
+    width: 100%;
+    text-align: center;
+}
+
+.pack-head h4 {
+    background-color: #062330;
+    color: #fff;
+    padding: 10px 0px;
+    margin: 0px;
+}
+
+.package-box2 {
+    box-shadow: 1px 1px 10px 0px rgba(0, 0, 0, 0.3);
+    padding: 0px 5px;
+    margin-bottom: 20px;
+}
+
+.package-box2 i {
+    color: #a03734;
+    text-shadow: 1px 1px 4px #000;
+}
+
+.destination2 {
+    padding: 10px 0px;
+    border-bottom: 2px dotted #ccc;
+}
+
+.time2 h4,
+p {
+    margin: 0px!important;
+}
+
+.sightseeing2 {
+    padding: 10px 0px;
+    border-bottom: 2px dotted #ccc;
+}
+
+.sightseeing2 ul {
+    text-align: center;
+}
+
+.sightseeing2 ul li {
+    display: inline-block;
+    text-align: center;
+    padding: 0px 15px;
+}
+
+.sightseeing2 ul li span {
+    display: block;
+    font-size: 12px;
+}
+
+.price3 {
+    padding: 10px 0px;
+    border-bottom: 2px dotted #ccc;
+    color: #000;
+}
+
+.price3 .call p {
+    font-size: 14px;
+    font-weight: 600;
+}
+
+.button-group2 {
+    padding: 10px 0px;
+}
+
+.from_left_and_right {
+    position: relative;
+    margin: 10px
+}
+
+.from_left_and_right .figcaption {
+    position: absolute;
+    bottom: 0px;
+    width: 100%;
+    color: #fff;
+    text-align: center;
+    background-color: darkorange;
+    padding: 10px
+}
+
+
+/*package2*/
+
+.realtd {
+    text-align: center;
+    padding: 50px;
+}
+
+.icon-section ul li i {}
+
+.itenry-section .img-wrap {
+    width: 50%;
+    position: relative;
+}
+
+.itenry-section .img-wrap .pkgimg {
+    width: 100%;
+    height: 232px;
+}
+
+.itenry-section .img-wrap .pkg-name {
+    background: #06060696;
+    text-align: center;
+    color: #fff;
+    padding: 5px 0px;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+
+.itenry-section .img-wrap .pkg-name p {
+    color: #fff;
+    text-align: center;
+}
+
+.itenry-section .img-wrap .pkg-name span {}
+
+.itenry-section .img-wrap .pkg-name span i {}
+
+.itenry-section .contant-wrap {
+    width: 50%;
+    padding: 10px;
+}
+
+.pry {
+    background-color: #00abc9;
+    border-color: #00abc9;
+}
+
+.itenry-section .contant-wrap h3 {
+    margin: 0;
+    font-size: 18px;
+    color: #00abc9;
+}
+
+.itenry-section .contant-wrap ul {
+    margin-top: 20px;
+}
+
+.itenry-section .contant-wrap ul li {
+    font-size: 11px;
+    line-height: 25px;
+    letter-spacing: 0px;
+}
+
+.itenry-section .contant-wrap ul li i {}
+
+.itenry-section .contant-wrap .iconimg {
+    width: 100%;
+    margin-top: 10px;
+}
+
+.book-now p {
+    text-align: center;
+    color: #fff;
+    font-size: 15px;
+}
+
+.book-now a {
+    display: block;
+    border: 1px solid #fff;
+    margin: 25px 0px 0px 0px;
+    padding: 10px;
+    text-align: center;
+    color: #fff;
+    text-decoration: none;
+    transition: all 0.5s ease;
+    border-radius: 50px;
+    transition: 1s;
+}
+
+.book-now a:hover {
+    background: #00abc9;
+    color: #fff;
+    box-shadow: 5px 5px 10px 2px #000;
+    transition: 1s;
+}
+
+.panel-primary {
+    border-color: #062330 !important;
+    border-radius: 5px !important;
+    border: 5px solid #062330 !important;
+}
+
+.panel-primary>.panel-heading {
+    text-align: center;
+    background: #062330 !important;
+    border-radius: 0 !important;
+}
+
+.panel-primary>.panel-heading h4 {
+    margin: 0;
+}
+
+.panel-primary .panel-body {
+    padding: 10px;
+}
+
+.form1 .colums {
+    padding-right: 5px !important;
+    padding-left: 5px !important;
+}
+
+.form1 .form-control {
+    padding: 6px 2px;
+    border-radius: 0;
+    margin-bottom: 10px;
+}
+
+.form1 .form-control::placeholder {
+    color: #555;
+}
+
+.t-pack {
+    padding: 0;
+}
+
+.t-pack li {
+    text-align: center;
+    padding: 10px 0px;
+    list-style: none;
+}
+
+.t-pack li a {
+    text-decoration: none;
+}
+
+.t-pack li a:hover {
+    text-decoration: none;
+}
+
+.t-pack li:not(:last-child) {
+    border-bottom: 1px solid #00000045;
+}
+
+
+/******************************package-detail********************/
+
+#myCarousel .carousel-inner .item img {
+    width: 100%;
+    height: 305px;
+}
+
+a:hover,
+a:focus {
+    text-decoration: none;
+    outline: none;
+}
+
+#accordion .panel {
+    border: none;
+    box-shadow: none;
+    border-radius: 0;
+    margin-bottom: 15px;
+}
+
+#accordion .panel-heading {
+    padding: 0;
+    border-radius: 0;
+    border: none;
+}
+
+#accordion .panel-title a {
+    display: block;
+    padding: 14px 30px 14px 70px;
+    font-size: 16px;
+    font-weight: bold;
+    color: #fff;
+    background: #062330;
+    position: relative;
+    overflow: hidden;
+    transition: all 0.5s ease 0s;
+}
+
+#accordion .panel-title a.collapsed {
+    background: #f8f8f8;
+    color: #4690e7;
+}
+
+#accordion .panel-title a.collapsed:hover {
+    color: #ef6145;
+}
+
+#accordion .panel-title a:before {
+    content: "";
+    width: 55px;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.1);
+    position: absolute;
+    top: 0;
+    left: -13px;
+    transform: skewX(-25deg);
+    transition: all 0.5s ease 0s;
+}
+
+#accordion .panel-title a.collapsed:hover:before {
+    background: #d7573e;
+}
+
+#accordion .panel-title a:after {
+    content: "\f047";
+    font-family: FontAwesome;
+    position: absolute;
+    left: 10px;
+    top: 50%;
+    color: #fff;
+    transform: translateY(-50%);
+}
+
+#accordion .panel-title a.collapsed:after {
+    color: #9f9f9f;
+}
+
+#accordion .panel-title a.collapsed:hover:after {
+    color: #fff;
+}
+
+#accordion .panel-body {
+    font-size: 14px;
+    color: #5a3245;
+    line-height: 25px;
+    padding: 20px 15px 20px 40px;
+    position: relative;
+    border: none;
+    position: relative;
+    transition: all 0.5s ease 0s;
+    border: 1px solid #00000042;
+}
+
+#accordion .panel-body:before {
+    content: "";
+    width: 5px;
+    height: 40px;
+    background: #062330;
+    position: absolute;
+    top: 30px;
+    left: 0;
+}
+
+#accordion .panel-body p {
+    margin-bottom: 0;
+}
+
+a:hover,
+a:focus {
+    outline: none;
+    text-decoration: none;
+}
+
+.tab .nav-tabs {
+    border: 1px solid #4690e7;
+}
+
+.tab .nav-tabs li {
+    margin: 0;
+}
+
+.tab .nav-tabs li a {
+    font-size: 14px;
+    color: #999898;
+    background: #fff;
+    margin: 0;
+    padding: 8px 25px;
+    border-radius: 0;
+    border: none;
+    border-right: 1px solid #ddd;
+    text-transform: uppercase;
+    position: relative;
+}
+
+.tab .nav-tabs li a:hover {
+    border-top: none;
+    border-bottom: none;
+    border-right-color: #ddd;
+    background: #4690e7;
+    color: #fff;
+}
+
+.tab .nav-tabs li.active a,
+.tab .nav-tabs li.active a:hover {
+    color: #fff;
+    border: none;
+    background: #4690e7;
+    border-right: 1px solid #ddd;
+}
+
+.tab .nav-tabs li.active a:before {
+    content: "";
+    width: 58%;
+    height: 4px;
+    background: #fff;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    margin: 0 auto;
+}
+
+.tab .nav-tabs li.active a:after {
+    content: "";
+    border-top: 10px solid #4690e7;
+    border-left: 10px solid transparent;
+    border-right: 10px solid transparent;
+    position: absolute;
+    bottom: -10px;
+    left: 43%;
+}
+
+.tab .tab-content {
+    font-size: 13px;
+    color: #999898;
+    line-height: 25px;
+    background: #fff;
+    padding: 20px;
+    border: 1px solid #4690e7;
+    border-top: none;
+}
+
+.tab .tab-content h3 {
+    font-size: 24px;
+    color: #999898;
+    margin-top: 0;
+}
+
+@media only screen and (max-width: 480px) {
+    .tab .nav-tabs li {
+        width: 100%;
+        text-align: center;
+    }
+    .tab .nav-tabs li.active a,
+    .tab .nav-tabs li.active a:after,
+    .tab .nav-tabs li.active a:hover {
+        border: none;
+    }
+}
+
+.pkg-table {
+    background: linear-gradient(rgba(8, 8, 8, 0.8), rgba(0, 0, 0, 0.63)), url('../images/img/Travel-woman.html');
+    background-size: cover;
+    background-position: center;
+    padding: 10px;
+    margin-bottom: 20px;
+  
+}
+
+.pkg-table h3 {
+    margin-top: 0px;
+    text-align: center;
+    color: #fff;
+    text-transform: uppercase;
+}
+
+.pkg-table .table {
+    color: #fff;
+    margin-bottom: 0px;
+}
+
+.pkg-table .table td {
+    text-transform: uppercase;
+    font-size: 12px;
+    width: 50%;
+    border-color: #a29191 !important;
+    /* border-style: dotted; */
+}
+
+.star-rate-fix {
+    padding: 0;
+    margin: 0;
+}
+
+.star-rate-fix li {
+    display: inline-block;
+}
+
+.star-rate-fix li .fa {
+    font-size: 22px;
+    color: #b7b72f;
+}
+
+.consume {
+    padding: 35px 30px;
+}
+
+
+/******************************package-detail********************/
+
+
+/*<!----------------------media-quiry------------------------->*/
+
+@media screen and (max-width:425px) {
+    .consume {
+        padding: 0px;
+    }
+    .float-section {
+        clear: both;
+    }
+    .float-section {
+        width: 100%;
+    }
+    .icon-section ul li {
+        display: inline-block;
+        width: 24%;
+        padding: 10px 0px;
+        margin: 0;
+    }
+    .icon-section ul {
+        width: 100%;
+        background: #4690e7;
+    }
+    .itenry-section .img-wrap {
+        width: 100%;
+    }
+    .itenry-section .contant-wrap {
+        width: 100%;
+    }
+    .book-now {
+        padding: 10px 0px;
+    }
+    .book-now a {
+        display: inline-block;
+        margin: 0;
+        width: 49%;
+    }
+    /*.itenry-section .contant-wrap ul li {
+         line-height: 20px;
+    }*/
+    .itenry-section .img-wrap .pkgimg {
+        height: 165px;
+    }
+}
+
+@media only screen and (min-width: 769px) and (max-width: 1024px) {
+    .book-now a {
+        margin: 14px 0px 0px 0px;
+    }
+    .itenry-section .contant-wrap ul li {
+        line-height: 17px;
+    }
+}
+
+@media only screen and (min-width: 641px) and (max-width: 768px) {
+    .itenry-section .contant-wrap ul li {
+        line-height: 20px;
+    }
+    .book-now {
+        padding: 17px 8px;
+    }
+}
+
+@media only screen and (min-width: 425px) and (max-width: 640px) {}
+
+@media only screen and (min-width: 376px) and (max-width: 425px) {}
+
+@media only screen and (min-width: 321px) and (max-width: 375px) {}
+
+@media only screen and (min-width: 0px) and (max-width: 320px) {
+    .icon-section ul li {
+        width: 23%;
+    }
+}
+
+
+/*<!----------------------media-quiry------------------------->*/
