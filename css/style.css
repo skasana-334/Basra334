@@ -28,10 +28,10 @@
 .hvr{
   background-color: #343661;
 }
+
 .hvr:hover{
  background-color:yellowgreen;
 }
-
 
 /* Normal desktop :1200px. */
 /* Normal desktop :992px. */
@@ -878,7 +878,7 @@ h3 {
 .header-area .main-header-area {
   background: #fff;
   background: transparent;
-  padding: 3px 5px 2px 0px;
+  padding: px;
 }
 
 /* line 21, ../../Arafath/CL/December/231. Travel-02/HTML/scss/_header.scss */
@@ -899,19 +899,8 @@ h3 {
   background: #001D38;
 }
 
-@media (max-width: 767px) {
-  /* line 17, ../../Arafath/CL/December/231. Travel-02/HTML/scss/_header.scss */
-  .header-area .main-header-area {
-    padding: 10px 10px;
-  }
-}
 
-@media (min-width: 768px) and (max-width: 991px) {
-  /* line 17, ../../Arafath/CL/December/231. Travel-02/HTML/scss/_header.scss */
-  .header-area .main-header-area {
-    padding: 10px 10px;
-  }
-}
+
 
 @media (min-width: 992px) and (max-width: 1200px) {
   /* line 17, ../../Arafath/CL/December/231. Travel-02/HTML/scss/_header.scss */
@@ -1352,12 +1341,6 @@ h3 {
   background-position: center center;
 }
 
-@media (max-width: 767px) {
-  /* line 23, ../../Arafath/CL/December/231. Travel-02/HTML/scss/_slider.scss */
-  .slider_area .single_slider {
-    height: auto;
-  }
-}
 
 @media (min-width: 768px) and (max-width: 991px) {
   /* line 23, ../../Arafath/CL/December/231. Travel-02/HTML/scss/_slider.scss */
@@ -7369,11 +7352,3 @@ ul {
 #myform input{
         margin-bottom: 10px;
 }
-
-
-
-
-
-
-
-
